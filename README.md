@@ -28,7 +28,7 @@ Me chame:
 <br />
 
 
-
+[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorOliveira936&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 <br />
