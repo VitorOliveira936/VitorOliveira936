@@ -21,7 +21,7 @@ Me chame:
 <a href="https://www.instagram.com/vitorhugo9752/" >
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram-logo" />
 </a>
-<a href="https://www.linkedin.com/in/vitor-hugo-1b431b201/" >
+<a href="https://www.linkedin.com/in/vitor-marques-oliveira/" >
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Linkedin-logo" />
 </a>
 <br />
